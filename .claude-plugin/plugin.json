@@ -1,0 +1,6 @@
+{
+  "name": "usage-window",
+  "version": "0.1.0",
+  "description": "Shows 5-hour and weekly usage limits in a band, a side pane and threshold alerts",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "usage-window",
+  "owner": { "name": "Schizocarp" },
+  "plugins": [
+    {
+      "name": "usage-window",
+      "source": "./",
+      "description": "Shows 5-hour and weekly usage limits in a band above the prompt, with alerts and a /usage-window pane"
+    }
+  ]
+}
